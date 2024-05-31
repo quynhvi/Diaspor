@@ -48,6 +48,10 @@
 		{
 			"Name": "DMXProtocol",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkVRPN",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
