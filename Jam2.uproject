@@ -79,6 +79,14 @@
 		{
 			"Name": "DMXPixelMapping",
 			"Enabled": true
+		},
+		{
+			"Name": "WidgetAutomationTests",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
